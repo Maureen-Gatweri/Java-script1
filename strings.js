@@ -12,6 +12,10 @@ const addString = y.slice(0,4) + "eat" + y.slice(4);
 console.log({ addString});
 
 
+
+
+//qustion 3
+
 const story= "The quick brown fox jumps over the lazy dog";
 let f ="The quick brown fox jumps over the lazy dog";
 console.log(
